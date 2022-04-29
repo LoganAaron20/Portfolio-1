@@ -1,0 +1,67 @@
+/* Header */
+header {
+    background-color: lightblue;
+    padding: 7px;
+
+}
+
+.main-color {
+    background-color: whitesmoke;
+    padding: 100px;
+}
+
+/* Set to easily center text withing HTML code */
+.text-center {
+    text-align: center;
+}
+/* Header 2 - h2 */
+h2 {
+    color: navy;
+}
+/* Header 3 - h3 */
+h3 {
+    color: lightblue;
+}
+/* Header 1 - h1 */
+h1 {
+    color: navy ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+/* Header 4 - h4 */
+h4 {
+    color: navy;
+    font-family: 'Times New Roman' , Times, serif;
+}
+/* Styling the footer */
+footer {
+    position: bottom;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: lightblue;
+    height: auto;
+    
+    padding: 20px;
+    color: lightblue;
+}
+/* Not in use
+.top-center {
+    text-align: top;
+}
+        */
+h5 {
+    color: navy;
+}
+/* Creating a light blue dashed line */
+hr {
+    border-top: 1px dashed lightblue;
+}
+
+/* Customizing the display of the image */
+img {
+    text-align: center;
+    width: 350px;
+    height: 400px;
+    margin: auto;
+}
